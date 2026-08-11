@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "firstName": "Liam",
+    "lastName": "Anderson",
+    "email": "liam.anderson@example.com",
+    "password": "pass1234",
+    "location": {
+      "country": "United States",
+      "state": "California",
+      "city": "San Francisco"
+    },
+    "favoriteAnimals": [3, 12, 5, 16]
+  },
+  {
+    "id": 2,
+    "firstName": "Sofia",
+    "lastName": "Martínez",
+    "email": "sofia.martinez@example.com",
+    "password": "secure987",
+    "location": {
+      "country": "Argentina",
+      "state": "Buenos Aires",
+      "city": "La Plata"
+    },
+    "favoriteAnimals": [1, 7, 10, 13]
+  },
+  {
+    "id": 3,
+    "firstName": "Haruto",
+    "lastName": "Tanaka",
+    "email": "haruto.tanaka@example.com",
+    "password": "qwerty123",
+    "location": {
+      "country": "Japan",
+      "state": "Tokyo",
+      "city": "Shibuya"
+    },
+    "favoriteAnimals": [2, 6, 11, 14]
+  },
+  {
+    "id": 4,
+    "firstName": "Amina",
+    "lastName": "Yusuf",
+    "email": "amina.yusuf@example.com",
+    "password": "mypassword1",
+    "location": {
+      "country": "Kenya",
+      "state": "Nairobi County",
+      "city": "Nairobi"
+    },
+    "favoriteAnimals": [4, 8, 9, 15]
+  },
+  {
+    "id": 5,
+    "firstName": "Noah",
+    "lastName": "Schmidt",
+    "email": "noah.schmidt@example.com",
+    "password": "german456",
+    "location": {
+      "country": "Germany",
+      "state": "Bavaria",
+      "city": "Munich"
+    },
+    "favoriteAnimals": []
+  }
+]

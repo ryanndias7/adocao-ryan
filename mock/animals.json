@@ -1,0 +1,354 @@
+[
+  {
+    "id": 1,
+    "name": "Luna",
+    "image": "https://example.com/images/luna.png",
+    "weight": 4.2,
+    "height": 0.23,
+    "sex": "female",
+    "breed": "Siamese",
+    "birth": "2020-01-01",
+    "location": {
+      "country": "USA",
+      "state": "California",
+      "city": "Los Angeles"
+    },
+    "data_sheet": {
+      "identification": true,
+      "sterilized": true,
+      "dewormed": true,
+      "vaccines": true
+    },
+    "description": "Luna is an irresistibly charming Siamese kitten with bright blue almond-shaped eyes and a silky, cream-colored coat. She has a playful spirit and loves to chase after feather toys, often pouncing with surprising grace for her size. When she’s not batting cotton balls across the floor, she curls up in the warmest sunny spot she can find and purrs in contentment, showing off her delicate little meow. Her gentle nature makes her ideal for snuggling on the couch, and her curiosity will keep you endlessly entertained as she explores every corner of your home with delicate, dainty steps."
+  },
+  {
+    "id": 2,
+    "name": "Max",
+    "image": "https://example.com/images/max.png",
+    "weight": 22.5,
+    "height": 0.61,
+    "sex": "male",
+    "breed": "Golden Retriever",
+    "birth": "2020-12-01",
+    "location": {
+      "country": "USA",
+      "state": "Texas",
+      "city": "Houston"
+    },
+    "data_sheet": {
+      "identification": true,
+      "sterilized": false,
+      "dewormed": true,
+      "vaccines": true
+    },
+    "description": "Max is a joyful Golden Retriever whose golden fur gleams like a sunbeam. His wagging tail is practically a blur whenever he spots his favorite tennis ball. He has a gentle, friendly disposition and is always ready for a big sloppy kiss or a belly rub. Max’s soft floppy ears and big brown eyes convey genuine affection, and he especially loves to fetch in the park, bounding through the grass with boundless enthusiasm. At the end of an energetic day, he nestles beside you with a tired but happy sigh, resting his head on your lap as if to say, 'I love you.'"
+  },
+  {
+    "id": 3,
+    "name": "Milo",
+    "image": "https://example.com/images/milo.png",
+    "weight": 4.8,
+    "height": 0.25,
+    "sex": "male",
+    "breed": "Maine Coon",
+    "birth": "2020-12-01",
+    "location": {
+      "country": "Canada",
+      "state": "Ontario",
+      "city": "Toronto"
+    },
+    "data_sheet": {
+      "identification": true,
+      "sterilized": true,
+      "dewormed": true,
+      "vaccines": false
+    },
+    "description": "Milo is a majestic Maine Coon with a luxurious, tufted coat and a regal air. He trots around the house like he owns the place, but his deep rumbling purrs reveal his soft side. With his tufted paws and bushy tail, he looks like a little lion prince. He enjoys perching on the highest shelf to survey his domain, then gently leaps down to offer head buns as tokens of affection. His gentle nature and playful antics—like batting at dangling ribbons—make him utterly endearing, and his grand mane and enormous paws only add to his adorable, larger-than-life charm."
+  },
+  {
+    "id": 4,
+    "name": "Bella",
+    "image": "https://example.com/images/bella.png",
+    "weight": 19.0,
+    "height": 0.55,
+    "sex": "female",
+    "breed": "Labrador Retriever",
+    "birth": "2021-05-01",
+    "location": {
+      "country": "Brazil",
+      "state": "São Paulo",
+      "city": "Campinas"
+    },
+    "data_sheet": {
+      "identification": true,
+      "sterilized": true,
+      "dewormed": true,
+      "vaccines": true
+    },
+    "description": "Bella is a sweet-natured Labrador Retriever with a shiny black coat and soulful brown eyes that melt your heart at first glance. She bounds toward you with pure excitement, her tail wagging like a metronome. She adores fetching a bright red frisbee on sunny afternoons, returning it with a triumphant drop at your feet. Bella’s affectionate personality shines through when she leans into you for gentle scratches behind her ears and happily accepts every treat you offer. Her soft, floppy ears and warm, loving gaze make her the perfect companion for both children and adults alike."
+  },
+  {
+    "id": 5,
+    "name": "Oliver",
+    "image": "https://example.com/images/oliver.png",
+    "weight": 5.1,
+    "height": 0.24,
+    "sex": "male",
+    "breed": "British Shorthair",
+    "birth": "2024-10-01",
+    "location": {
+      "country": "UK",
+      "state": "England",
+      "city": "London"
+    },
+    "data_sheet": {
+      "identification": true,
+      "sterilized": false,
+      "dewormed": true,
+      "vaccines": true
+    },
+    "description": "Oliver is a chubby British Shorthair with a plush, dense gray coat that begs to be stroked. His round amber eyes peer at you with gentle curiosity as he slowly blinks, a clear sign of his trust and affection. He moves with a tranquil grace, preferring dignified strolls over frantic sprints, but he still loves sitting in a sunbeam and kneading a soft blanket with his paws. When you call his name, he tilts his head adorably before padding over for a gentle head bump. His calm demeanor and purrs as soft as a whisper make him the ultimate cuddle buddy."
+  },
+  {
+    "id": 6,
+    "name": "Rocky",
+    "image": "https://example.com/images/rocky.png",
+    "weight": 18.7,
+    "height": 0.57,
+    "sex": "male",
+    "breed": "Boxer",
+    "birth": "2021-06-01",
+    "location": {
+      "country": "USA",
+      "state": "Florida",
+      "city": "Miami"
+    },
+    "data_sheet": {
+      "identification": true,
+      "sterilized": false,
+      "dewormed": false,
+      "vaccines": true
+    },
+    "description": "Rocky is a spirited Boxer with a shiny brindle coat and an infectious enthusiasm for life. His boundless energy is evident in every joyful leap, from chasing after squeaky toys to racing you to the end of the yard. His wrinkled forehead gives him an endearing expression of perpetual curiosity, and his big, droopy jowls make the cutest pout whenever he wants a treat. Despite his energetic nature, he melts into a gentle spooning session once his playtime is done. Rocky’s goofy grin, wagging tail, and soft snorts when he drifts off to sleep will make you adore him instantly."
+  },
+  {
+    "id": 7,
+    "name": "Cleo",
+    "image": "https://example.com/images/cleo.png",
+    "weight": 3.7,
+    "height": 0.22,
+    "sex": "female",
+    "breed": "Persian",
+    "birth": "2022-08-01",
+    "location": {
+      "country": "Australia",
+      "state": "New South Wales",
+      "city": "Sydney"
+    },
+    "data_sheet": {
+      "identification": false,
+      "sterilized": true,
+      "dewormed": true,
+      "vaccines": true
+    },
+    "description": "Cleo is a regal Persian with a cloud-like, long white coat that looks as if it were spun from silk. Her round, expressive orange eyes peer out from behind a gentle mask of fur, making her look like a living plush toy. She moves with a slow, dignified grace, and her fluffy tail sways like a plume in the breeze. Cleo loves lounging on velvet cushions and basking in the afternoon sun, grooming her coat meticulously. When she settles on your lap, her gentle purring vibrates like a whisper, and she nuzzles her head into your hand, reminding you of her royal, affectionate nature."
+  },
+  {
+    "id": 8,
+    "name": "Charlie",
+    "image": "https://example.com/images/charlie.png",
+    "weight": 24.0,
+    "height": 0.65,
+    "sex": "male",
+    "breed": "German Shepherd",
+    "birth": "2025-05-01",
+    "location": {
+      "country": "Germany",
+      "state": "Bavaria",
+      "city": "Munich"
+    },
+    "data_sheet": {
+      "identification": true,
+      "sterilized": true,
+      "dewormed": true,
+      "vaccines": false
+    },
+    "description": "Charlie is a noble German Shepherd with a glossy black-and-tan coat and intelligent brown eyes that seem to understand everything you say. He walks with confident, purposeful strides but instantly softens when he lies down beside you, resting his head on your foot. His loyalty is unparalleled—he’ll follow you from room to room, offering gentle nudges as if to say, 'I’m here.' Charlie loves playing fetch in the backyard, returning each ball with a proud, wagging tail. In the evenings, he curls up at your side, his rhythmic breathing and occasional sighs making him the perfect, comforting companion."
+  },
+  {
+    "id": 9,
+    "name": "Lucy",
+    "image": "https://example.com/images/lucy.png",
+    "weight": 17.3,
+    "height": 0.38,
+    "sex": "female",
+    "breed": "Beagle",
+    "birth": "2021-02-01",
+    "location": {
+      "country": "USA",
+      "state": "Georgia",
+      "city": "Atlanta"
+    },
+    "data_sheet": {
+      "identification": true,
+      "sterilized": false,
+      "dewormed": true,
+      "vaccines": true
+    },
+    "description": "Lucy is an adorable Beagle with large, floppy ears and big, soulful brown eyes that seem to say, 'Let’s be best friends.' Her tri-color coat shines in the sunlight as she trails scents along the ground, her nose always close to whatever interesting aroma has caught her attention. She loves long walks in the park and squeaky toys that she carries around proudly. When she sits, her head tilts inquisitively, and her tail wags in eager anticipation of the next adventure. Lucy’s sweet, melodic howl when she’s happy will make anyone’s heart melt."
+  },
+  {
+    "id": 10,
+    "name": "Cooper",
+    "image": "https://example.com/images/cooper.png",
+    "weight": 20.1,
+    "height": 0.50,
+    "sex": "male",
+    "breed": "Border Collie",
+    "birth": "2019-12-01",
+    "location": {
+      "country": "New Zealand",
+      "state": "Wellington",
+      "city": "Wellington"
+    },
+    "data_sheet": {
+      "identification": false,
+      "sterilized": false,
+      "dewormed": true,
+      "vaccines": true
+    },
+    "description": "Cooper is a strikingly intelligent Border Collie with a sleek black-and-white coat and intensely focused eyes that sparkle with mischief. He thrives on mental challenges and loves learning new tricks—just show him once, and he picks it up! His boundless energy is apparent in every agile leap as he herds invisible flocks across your yard. After an action-packed day, he settles in for gentle ear scratches, tilting his head and softly whining for more attention. Cooper’s playful bark and affectionate cuddles make him a loyal and endearing friend."
+  },
+  {
+    "id": 11,
+    "name": "Daisy",
+    "image": "https://example.com/images/daisy.png",
+    "weight": 21.4,
+    "height": 0.58,
+    "sex": "female",
+    "breed": "Dalmatian",
+    "birth": "2023-12-01",
+    "location": {
+      "country": "USA",
+      "state": "Illinois",
+      "city": "Chicago"
+    },
+    "data_sheet": {
+      "identification": true,
+      "sterilized": true,
+      "dewormed": true,
+      "vaccines": false
+    },
+    "description": "Daisy is a stunning Dalmatian with perfectly symmetrical black spots on a snowy white coat, looking as though she stepped out of a storybook illustration. Her lean, athletic build allows her to run effortlessly alongside you as you jog. She gazes at you with warm, affectionate eyes whenever you praise her, and her happy barks echo through the neighborhood. When she’s not exercising, Daisy loves curling up on a fluffy cushion, resting her spotted head on her paws as if posing for a portrait. Her gentle personality and boundless energy create a delightful balance that brightens every day."
+  },
+  {
+    "id": 12,
+    "name": "Bailey",
+    "image": "https://example.com/images/bailey.png",
+    "weight": 15.2,
+    "height": 0.38,
+    "sex": "female",
+    "breed": "Cocker Spaniel",
+    "birth": "2024-10-01",
+    "location": {
+      "country": "USA",
+      "state": "Colorado",
+      "city": "Denver"
+    },
+    "data_sheet": {
+      "identification": true,
+      "sterilized": true,
+      "dewormed": false,
+      "vaccines": true
+    },
+    "description": "Bailey is a sweet Cocker Spaniel with long, flowing golden ears that frame her soft, expressive eyes. She prances through the grass with a bounce in her step, her silky coat shining under the sun. Her gentle, melodic bark is accompanied by an eager wag of her plume-like tail. She loves leaning into you for ear scritches and giving affectionate licks on your hand. After a day of playful frolics, she’ll settle on your feet, gazing up with adoring eyes as if to say, 'Stay with me.' Her calm demeanor and loving nature make every moment together feel like pure joy."
+  },
+  {
+    "id": 13,
+    "name": "Simba",
+    "image": "https://example.com/images/simba.png",
+    "weight": 4.9,
+    "height": 0.24,
+    "sex": "male",
+    "breed": "Ragdoll",
+    "birth": "2020-11-01",
+    "location": {
+      "country": "USA",
+      "state": "Oregon",
+      "city": "Portland"
+    },
+    "data_sheet": {
+      "identification": true,
+      "sterilized": true,
+      "dewormed": true,
+      "vaccines": true
+    },
+    "description": "Simba is a charming Ragdoll with striking blue eyes and a fluffy, cream-and-caramel coat that begs for constant petting. He adores being cradled like a baby, going limp in your arms and purring with pure bliss. With his playful batting at dangling toys and his gentle head nudges, he reminds you of a teddy bear come to life. When he stretches out to expose his fluffy belly, his relaxed purrs are the sweetest soundtrack to any afternoon nap. Simba’s affectionate nature and gentle demeanor make him the ultimate lap cat, always ready to shower you with love and warmth."
+  },
+  {
+    "id": 14,
+    "name": "Nala",
+    "image": "https://example.com/images/nala.png",
+    "weight": 3.6,
+    "height": 0.22,
+    "sex": "female",
+    "breed": "Bengal",
+    "birth": "2022-09-01",
+    "location": {
+      "country": "UK",
+      "state": "Scotland",
+      "city": "Edinburgh"
+    },
+    "data_sheet": {
+      "identification": false,
+      "sterilized": false,
+      "dewormed": true,
+      "vaccines": true
+    },
+    "description": "Nala is a dazzling Bengal with a stunning spotted coat that resembles a miniature leopard. She moves with a sleek, fluid grace, her lithe body weaving through your legs as she demands belly rubs. Her bright green eyes gleam with curiosity, and when she playfully pounces on a crinkly ball, her athleticism is mesmerizing. Despite her wild appearance, Nala melts into your lap, her soft purrs vibrating against you as she kneads with her paws. Her affectionate head bumps and endearing chirps make every moment spent with her feel like a special adventure."
+  },
+  {
+    "id": 15,
+    "name": "Leo",
+    "image": "https://example.com/images/leo.png",
+    "weight": 5.4,
+    "height": 0.26,
+    "sex": "male",
+    "breed": "Russian Blue",
+    "birth": "2024-03-01",
+    "location": {
+      "country": "Germany",
+      "state": "Berlin",
+      "city": "Berlin"
+    },
+    "data_sheet": {
+      "identification": true,
+      "sterilized": true,
+      "dewormed": false,
+      "vaccines": true
+    },
+    "description": "Leo is a sophisticated Russian Blue with a lush, silvery-blue coat that feels like velvet under your fingers. His vibrant green eyes shine with intelligence and a hint of mischief, as if he’s always plotting his next playful escapade. He loves perching on windowsills, gazing out at birds with silent fascination. When he finally decides to come for attention, he gently rubs against your leg before rolling over, exposing his soft belly for a reassuring scratch. His whisper-quiet purrs and gentle kneading make every cuddle session pure bliss."
+  },
+  {
+    "id": 16,
+    "name": "Misty",
+    "image": "https://example.com/images/misty.png",
+    "weight": 4.0,
+    "height": 0.23,
+    "sex": "female",
+    "breed": "Turkish Angora",
+    "birth": "2023-01-01",
+    "location": {
+      "country": "Turkey",
+      "state": "Ankara",
+      "city": "Ankara"
+    },
+    "data_sheet": {
+      "identification": true,
+      "sterilized": false,
+      "dewormed": true,
+      "vaccines": false
+    },
+    "description": "Misty is a graceful Turkish Angora with a pure white coat so soft it feels like freshly fallen snow. Her bright blue eyes resemble sea glass and shine with curiosity. She moves like a ballet dancer, every step delicate and poised, and she adores chasing ribbons as though performing a grand show. When she settles next to you, she curls up into a perfect ball, her fluffy tail draped over her face as her purring crescendos. Misty’s playful chirps when she greets you in the morning will melt any heart, making her an enchanting and affectionate companion."
+  }
+]
