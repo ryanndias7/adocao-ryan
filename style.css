@@ -1,0 +1,22 @@
+/* O css funciona atravez de classes e elementos, 
+então se eu quero mudar o estilo de algo 
+eu preciso referenciar o nome do elemento ou sua classe */
+/* GERALMENTE NO BODY PADRONIZAMOS MARGENS E ESPAÇAMENTOS  */
+
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
+.back-primario {
+    background-color:#6ce7e3;
+}
+.back-secundario {
+    background-color:#2e3656;
+}
+.animal-intro {
+    width: 100%;
+    position: absolute;
+    left: -32px;
+    bottom: 0px;
+}
